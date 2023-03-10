@@ -63,11 +63,13 @@ header{
     background: green;
     padding: 3em;
     text-align: center;
+    margin-bottom: 0.5em;
 }
 
 nav{
     background: rgb(0, 64, 255);
     padding: 1em;
+    margin-bottom: 0.5em;
 }
 
 nav > ul{
@@ -78,15 +80,19 @@ nav > ul{
 a, h1,h2,h3{
     color: white;
 }
-
+main{
+    margin-bottom: 0.5em;
+}
 section{
     background: darkblue;
     text-align: center;
-    padding: 10em;
+    padding: 10em; 
 }
 
 footer{
     background: purple;
     padding: 2em;
     text-align: center;
+    margin-bottom: 0.5em;
 }
+
